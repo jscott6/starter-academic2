@@ -1,13 +1,11 @@
 ---
 title: Jamie Scott
 role: PhD Statistics Candidate
-avatar_filename: profile_pic.jpg
+avatar_filename: avatar.jpg
 bio: My current research involves developing methodology for inference in
   complex networks.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational
 social:
   - icon: envelope
     icon_pack: fas
