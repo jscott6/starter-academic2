@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - "**James A. Scott** and Axel Gandy"
+  - James A. Scott and Axel Gandy
 author_notes: []
 publication: "*Journal of Computational and Graphical Statistics*, 29, 847-858"
 summary: ""
