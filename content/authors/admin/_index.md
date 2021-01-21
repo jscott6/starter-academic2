@@ -9,34 +9,31 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:js.scott@btinternet.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jscott6
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/jamesalexanderscott
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Statistics
+      institution: Imperial College London
+      year: ""
+    - course: MRes Financial Computing
+      institution: University College London
+      year: 2017
+    - course: MSc Statistics
+      institution: Imperial College London
+      year: 2016
+    - course: BA Economics
+      institution: University of Cambridge
+      year: 2014
+email: js.scott@btinternet.com
 superuser: true
 highlight_name: false
 ---
