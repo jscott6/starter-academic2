@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My current research involves developing methodology for inference in
   complex networks.
 interests:
-  - Computational
+  - Computational-Statistics Statistical-Network-Analysis
 social:
   - icon: envelope
     icon_pack: fas
