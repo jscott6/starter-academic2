@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 bio: My current research involves developing methodology for inference in
   complex networks.
 interests:
-  - Computational
+  - Computational Statistics
+  - Statistical Network Analysis
+  - Random Graph Models
+  - Inverse Problems
+  - Markov Chain Monte Carlo
+  - Epidemic Models
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,4 +42,5 @@ email: js.scott@btinternet.com
 superuser: true
 highlight_name: false
 ---
-I am a PhD candidate in Statistics at Imperial College London, supervised by Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and funded by an EPSRC scholarship. Prior to the PhD, I received an MRes from UCL, an MSc in Statistics from Imperial and an MA from the University of Cambridge.
+I am a Quantitative Researcher at Citadel. Prior to this, I was a PhD candidate in Statistics at Imperial College London, supervised by Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/). 
+My research primarily involved developing methodology for inference in complex networks. I have also worked on semi-mechanistic Bayesian models for epidemics, in collaboration with the MRC Centre for Global Infectious Disease Analysis.

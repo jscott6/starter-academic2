@@ -1,21 +1,11 @@
 ---
-widget: pages
+widget: github.jscott6.pub
 widget_id: publications
 headless: true
-weight: 90
-title: Publications
+weight: 15
+title: Preprints & Publications
 subtitle: ""
-content:
-  page_type: publication
-  count: 5
-  offset: 0
-  order: desc
-  filters:
-    tag: ""
-    category: ""
-    publication_type: ""
-    author: ""
-    exclude_featured: true
-design:
-  view: 4
 ---
+\* <em>denotes equal contribution</em>
+
+

@@ -1,4 +1,12 @@
+github.com/jscott6/wowchemy-widget-pub v0.0.0-20210122162056-bc066ecd10d8 h1:n5lTUd1e627a2WmlS4NfIzKlTtQW4K/ki1LqUzJl0oU=
+github.com/jscott6/wowchemy-widget-pub v0.0.0-20210122162056-bc066ecd10d8/go.mod h1:rPltR+2/gXdLjOTlMkAtDXS09BQfok1KbLaUNTNfMkc=
+github.com/jscott6/wowchemy-widget-pub v0.0.0-20210203122038-4783696289a1 h1:qrFFLWiJASitZBM5AqTtPhqQ7Rf8Ji8zp4hYuXWxBJE=
+github.com/jscott6/wowchemy-widget-pub v0.0.0-20210203122038-4783696289a1/go.mod h1:rPltR+2/gXdLjOTlMkAtDXS09BQfok1KbLaUNTNfMkc=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210116234944-9f5c626c8f9f h1:aRH9w3I5W8VouMS56m+9H38wpTId6OIoCKPoR5YUSco=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210116234944-9f5c626c8f9f/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210202235530-9bbf6fa2a698 h1:PdqPR7pmfCTewmHtjT4JekB57MRN5PIyXJgdDAF79CA=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210202235530-9bbf6fa2a698/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210116234944-9f5c626c8f9f h1:KrTCYnakV17GchUUgPZVAo6bLjy68WJTynSg87H6xpk=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210116234944-9f5c626c8f9f/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210202235530-9bbf6fa2a698 h1:HwIWzOfIdoyqzYLrvBAbDcz68fO7nDh8S/D1fZcjifY=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210202235530-9bbf6fa2a698/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
